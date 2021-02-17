@@ -3,4 +3,4 @@ A program that uses Selenium to scrape the Alberta Government's Spin 2 system to
 
 This is a work in progress...
 
-(The scraping part works, but Spin 2 only returns limited results at a time within the specified criteria (not record fits the search will be returned). Will need to implement a grid sweep system)
+(The scraping part works, but Spin 2 only returns limited results at a time within the specified criteria (not every record that fits the search will be returned). Will need to implement a grid sweep system)
